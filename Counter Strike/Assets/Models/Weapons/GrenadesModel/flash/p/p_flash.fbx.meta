@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: b9561b62872d72f4fa59e2b244bc5678
+timeCreated: 1489273953
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Neck
+    100004: Bip01 Pelvis
+    100006: Bip01 R Clavicle
+    100008: Bip01 R Forearm
+    100010: Bip01 R Hand
+    100012: Bip01 R UpperArm
+    100014: Bip01 Spine
+    100016: Bip01 Spine1
+    100018: Bip01 Spine2
+    100020: Bip01 Spine3
+    100022: Camera
+    100024: Cylinder01
+    100026: Cylinder01_end
+    100028: Lamp
+    100030: //RootNode
+    100032: p_flashbang.qc_skeleton
+    100034: reference_flashbang ref
+    100036: reference_flashbang2 ref
+    400000: Bip01
+    400002: Bip01 Neck
+    400004: Bip01 Pelvis
+    400006: Bip01 R Clavicle
+    400008: Bip01 R Forearm
+    400010: Bip01 R Hand
+    400012: Bip01 R UpperArm
+    400014: Bip01 Spine
+    400016: Bip01 Spine1
+    400018: Bip01 Spine2
+    400020: Bip01 Spine3
+    400022: Camera
+    400024: Cylinder01
+    400026: Cylinder01_end
+    400028: Lamp
+    400030: //RootNode
+    400032: p_flashbang.qc_skeleton
+    400034: reference_flashbang ref
+    400036: reference_flashbang2 ref
+    4300000: reference_flashbang2 ref
+    4300002: reference_flashbang ref
+    7400000: p_flashbang.qc_skeleton|idle
+    9500000: //RootNode
+    13700000: reference_flashbang ref
+    13700002: reference_flashbang2 ref
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

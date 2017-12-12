@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: b0b5dd52db3771c40a168a45ee68b3a2
+timeCreated: 1489158318
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone 04
+    100002: Bone01
+    100004: Bone02
+    100006: Bone04
+    100008: Bone05
+    100010: Bone06
+    100012: Bone07
+    100014: Bone07_end
+    100016: Bone09
+    100018: Bone10
+    100020: Bone11
+    100022: Bone11_end
+    100024: Bone13
+    100026: Bone14
+    100028: Bone15
+    100030: Bone15_end
+    100032: Bone17
+    100034: Bone18
+    100036: Bone19
+    100038: Bone19_end
+    100040: Bone21
+    100042: Bone22
+    100044: Bone23
+    100046: Bone23_end
+    100048: Bone26
+    100050: Bone27
+    100052: Bone28
+    100054: Bone29
+    100056: Bone29_end
+    100058: Bone31
+    100060: Bone32
+    100062: Bone33
+    100064: Bone33_end
+    100066: Bone35
+    100068: Bone36
+    100070: Bone37
+    100072: Bone37_end
+    100074: Bone39
+    100076: Bone40
+    100078: Bone41
+    100080: Bone41_end
+    100082: Bone43
+    100084: Bone44
+    100086: Bone45
+    100088: Bone45_end
+    100090: Bone_Lefthand
+    100092: Bone_Righthand
+    100094: c4_template
+    100096: Camera
+    100098: digit1
+    100100: digit1_end
+    100102: digit2
+    100104: digit2_end
+    100106: digit3
+    100108: digit3_end
+    100110: digit4
+    100112: digit4_end
+    100114: digit5
+    100116: digit5_end
+    100118: digit6
+    100120: digit6_end
+    100122: digit7
+    100124: digit7_end
+    100126: digit8
+    100128: digit8_end
+    100130: digit9
+    100132: digit9_end
+    100134: digit_helper
+    100136: Lamp
+    100138: lhand
+    100140: rhand
+    100142: //RootNode
+    100144: v_c4.qc_skeleton
+    400000: Bone 04
+    400002: Bone01
+    400004: Bone02
+    400006: Bone04
+    400008: Bone05
+    400010: Bone06
+    400012: Bone07
+    400014: Bone07_end
+    400016: Bone09
+    400018: Bone10
+    400020: Bone11
+    400022: Bone11_end
+    400024: Bone13
+    400026: Bone14
+    400028: Bone15
+    400030: Bone15_end
+    400032: Bone17
+    400034: Bone18
+    400036: Bone19
+    400038: Bone19_end
+    400040: Bone21
+    400042: Bone22
+    400044: Bone23
+    400046: Bone23_end
+    400048: Bone26
+    400050: Bone27
+    400052: Bone28
+    400054: Bone29
+    400056: Bone29_end
+    400058: Bone31
+    400060: Bone32
+    400062: Bone33
+    400064: Bone33_end
+    400066: Bone35
+    400068: Bone36
+    400070: Bone37
+    400072: Bone37_end
+    400074: Bone39
+    400076: Bone40
+    400078: Bone41
+    400080: Bone41_end
+    400082: Bone43
+    400084: Bone44
+    400086: Bone45
+    400088: Bone45_end
+    400090: Bone_Lefthand
+    400092: Bone_Righthand
+    400094: c4_template
+    400096: Camera
+    400098: digit1
+    400100: digit1_end
+    400102: digit2
+    400104: digit2_end
+    400106: digit3
+    400108: digit3_end
+    400110: digit4
+    400112: digit4_end
+    400114: digit5
+    400116: digit5_end
+    400118: digit6
+    400120: digit6_end
+    400122: digit7
+    400124: digit7_end
+    400126: digit8
+    400128: digit8_end
+    400130: digit9
+    400132: digit9_end
+    400134: digit_helper
+    400136: Lamp
+    400138: lhand
+    400140: rhand
+    400142: //RootNode
+    400144: v_c4.qc_skeleton
+    4300000: c4_template
+    4300002: lhand
+    4300004: rhand
+    7400000: v_c4.qc_skeleton|draw
+    7400002: v_c4.qc_skeleton|drop
+    7400004: v_c4.qc_skeleton|idle1
+    7400006: v_c4.qc_skeleton|press+button
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: c4_template
+    13700002: lhand
+    13700004: rhand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

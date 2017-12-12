@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 0d0eae4b21c22ef419d5e2e154c8135f
+timeCreated: 1483997303
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone01
+    100002: Bone01(mirrored)
+    100004: Bone02
+    100006: Bone02(mirrored)
+    100008: Bone03
+    100010: Bone03(mirrored)
+    100012: Bone03(mirrored)_end
+    100014: Bone03_end
+    100016: Bone05
+    100018: Bone05(mirrored)
+    100020: Bone06
+    100022: Bone06(mirrored)
+    100024: Bone07
+    100026: Bone07(mirrored)
+    100028: Bone07(mirrored)_end
+    100030: Bone07_end
+    100032: Bone09
+    100034: Bone09(mirrored)
+    100036: Bone10
+    100038: Bone10(mirrored)
+    100040: Bone11
+    100042: Bone11(mirrored)
+    100044: Bone11(mirrored)_end
+    100046: Bone11_end
+    100048: Bone13
+    100050: Bone13(mirrored)
+    100052: Bone14
+    100054: Bone14(mirrored)
+    100056: Bone15
+    100058: Bone15(mirrored)
+    100060: Bone15(mirrored)_end
+    100062: Bone15_end
+    100064: Bone_L_Hand01
+    100066: Bone_L_LowerArm01
+    100068: Bone_L_LowerThumb01
+    100070: Bone_L_LowerThumb01_end
+    100072: Bone_L_MiddleThumb01
+    100074: Bone_L_UpperArm01
+    100076: Bone_L_UpperThumb01
+    100078: Bone_R_Hand01
+    100080: Bone_R_LowerArm01
+    100082: Bone_R_LowerThumb01
+    100084: Bone_R_LowerThumb01_end
+    100086: Bone_R_MiddleThumb01
+    100088: Bone_R_UpperArm01
+    100090: Bone_R_UpperThumb01
+    100092: Camera
+    100094: Dummy01
+    100096: Dummy02
+    100098: Dummy03
+    100100: Dummy04
+    100102: Dummy05
+    100104: Dummy06
+    100106: Dummy07
+    100108: Dummy08
+    100110: Dummy09
+    100112: Dummy10
+    100114: gun
+    100116: L_Arm_Controller
+    100118: Lamp
+    100120: mag
+    100122: mag_end
+    100124: R_Arm_Controller
+    100126: reference ref
+    100128: silencer
+    100130: silencer_end
+    100132: slide
+    100134: slide_end
+    100136: //RootNode
+    100138: v_usp.qc_skeleton
+    400000: Bone01
+    400002: Bone01(mirrored)
+    400004: Bone02
+    400006: Bone02(mirrored)
+    400008: Bone03
+    400010: Bone03(mirrored)
+    400012: Bone03(mirrored)_end
+    400014: Bone03_end
+    400016: Bone05
+    400018: Bone05(mirrored)
+    400020: Bone06
+    400022: Bone06(mirrored)
+    400024: Bone07
+    400026: Bone07(mirrored)
+    400028: Bone07(mirrored)_end
+    400030: Bone07_end
+    400032: Bone09
+    400034: Bone09(mirrored)
+    400036: Bone10
+    400038: Bone10(mirrored)
+    400040: Bone11
+    400042: Bone11(mirrored)
+    400044: Bone11(mirrored)_end
+    400046: Bone11_end
+    400048: Bone13
+    400050: Bone13(mirrored)
+    400052: Bone14
+    400054: Bone14(mirrored)
+    400056: Bone15
+    400058: Bone15(mirrored)
+    400060: Bone15(mirrored)_end
+    400062: Bone15_end
+    400064: Bone_L_Hand01
+    400066: Bone_L_LowerArm01
+    400068: Bone_L_LowerThumb01
+    400070: Bone_L_LowerThumb01_end
+    400072: Bone_L_MiddleThumb01
+    400074: Bone_L_UpperArm01
+    400076: Bone_L_UpperThumb01
+    400078: Bone_R_Hand01
+    400080: Bone_R_LowerArm01
+    400082: Bone_R_LowerThumb01
+    400084: Bone_R_LowerThumb01_end
+    400086: Bone_R_MiddleThumb01
+    400088: Bone_R_UpperArm01
+    400090: Bone_R_UpperThumb01
+    400092: Camera
+    400094: Dummy01
+    400096: Dummy02
+    400098: Dummy03
+    400100: Dummy04
+    400102: Dummy05
+    400104: Dummy06
+    400106: Dummy07
+    400108: Dummy08
+    400110: Dummy09
+    400112: Dummy10
+    400114: gun
+    400116: L_Arm_Controller
+    400118: Lamp
+    400120: mag
+    400122: mag_end
+    400124: R_Arm_Controller
+    400126: reference ref
+    400128: silencer
+    400130: silencer_end
+    400132: slide
+    400134: slide_end
+    400136: //RootNode
+    400138: v_usp.qc_skeleton
+    4300000: reference ref
+    7400000: v_usp.qc_skeleton|add_silencer
+    7400002: v_usp.qc_skeleton|detach_silencer
+    7400004: v_usp.qc_skeleton|draw
+    7400006: v_usp.qc_skeleton|draw_unsil
+    7400008: v_usp.qc_skeleton|idle
+    7400010: v_usp.qc_skeleton|idle_unsil
+    7400012: v_usp.qc_skeleton|reload
+    7400014: v_usp.qc_skeleton|reload_unsil
+    7400016: v_usp.qc_skeleton|shoot1
+    7400018: v_usp.qc_skeleton|shoot1_unsil
+    7400020: v_usp.qc_skeleton|shoot2
+    7400022: v_usp.qc_skeleton|shoot2_unsil
+    7400024: v_usp.qc_skeleton|shoot3
+    7400026: v_usp.qc_skeleton|shoot3_unsil
+    7400028: v_usp.qc_skeleton|shootlast
+    7400030: v_usp.qc_skeleton|shootlast_unsil
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: reference ref
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

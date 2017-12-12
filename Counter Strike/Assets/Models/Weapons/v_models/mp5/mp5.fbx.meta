@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 96caf8ce640111947b294d5b37596879
+timeCreated: 1484094487
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone 04
+    100002: Bone01
+    100004: Bone03
+    100006: Bone04
+    100008: Bone05
+    100010: Bone06
+    100012: Bone07
+    100014: Bone07_end
+    100016: Bone09
+    100018: Bone10
+    100020: Bone11
+    100022: Bone11_end
+    100024: Bone13
+    100026: Bone14
+    100028: Bone15
+    100030: Bone15_end
+    100032: Bone17
+    100034: Bone18
+    100036: Bone19
+    100038: Bone19_end
+    100040: Bone21
+    100042: Bone22
+    100044: Bone23
+    100046: Bone23_end
+    100048: Bone25
+    100050: Bone25_end
+    100052: Bone26
+    100054: Bone27
+    100056: Bone28
+    100058: Bone29
+    100060: Bone29_end
+    100062: Bone31
+    100064: Bone32
+    100066: Bone33
+    100068: Bone33_end
+    100070: Bone35
+    100072: Bone36
+    100074: Bone37
+    100076: Bone37_end
+    100078: Bone39
+    100080: Bone40
+    100082: Bone41
+    100084: Bone41_end
+    100086: Bone43
+    100088: Bone44
+    100090: Bone45
+    100092: Bone45_end
+    100094: Bone48
+    100096: Bone48_end
+    100098: Bone50
+    100100: Bone50_end
+    100102: Bone52
+    100104: Bone52_end
+    100106: Bone54
+    100108: Bone54_end
+    100110: Bone56
+    100112: Bone_Lefthand
+    100114: Bone_Righthand
+    100116: Camera
+    100118: f_mp5_template
+    100120: Lamp
+    100122: lhand
+    100124: //RootNode
+    100126: rhand
+    100128: v_mp5.qc_skeleton
+    400000: Bone 04
+    400002: Bone01
+    400004: Bone03
+    400006: Bone04
+    400008: Bone05
+    400010: Bone06
+    400012: Bone07
+    400014: Bone07_end
+    400016: Bone09
+    400018: Bone10
+    400020: Bone11
+    400022: Bone11_end
+    400024: Bone13
+    400026: Bone14
+    400028: Bone15
+    400030: Bone15_end
+    400032: Bone17
+    400034: Bone18
+    400036: Bone19
+    400038: Bone19_end
+    400040: Bone21
+    400042: Bone22
+    400044: Bone23
+    400046: Bone23_end
+    400048: Bone25
+    400050: Bone25_end
+    400052: Bone26
+    400054: Bone27
+    400056: Bone28
+    400058: Bone29
+    400060: Bone29_end
+    400062: Bone31
+    400064: Bone32
+    400066: Bone33
+    400068: Bone33_end
+    400070: Bone35
+    400072: Bone36
+    400074: Bone37
+    400076: Bone37_end
+    400078: Bone39
+    400080: Bone40
+    400082: Bone41
+    400084: Bone41_end
+    400086: Bone43
+    400088: Bone44
+    400090: Bone45
+    400092: Bone45_end
+    400094: Bone48
+    400096: Bone48_end
+    400098: Bone50
+    400100: Bone50_end
+    400102: Bone52
+    400104: Bone52_end
+    400106: Bone54
+    400108: Bone54_end
+    400110: Bone56
+    400112: Bone_Lefthand
+    400114: Bone_Righthand
+    400116: Camera
+    400118: f_mp5_template
+    400120: Lamp
+    400122: lhand
+    400124: //RootNode
+    400126: rhand
+    400128: v_mp5.qc_skeleton
+    4300000: f_mp5_template
+    4300002: lhand
+    4300004: rhand
+    7400000: v_mp5.qc_skeleton|draw
+    7400002: v_mp5.qc_skeleton|idle1
+    7400004: v_mp5.qc_skeleton|reload
+    7400006: v_mp5.qc_skeleton|shoot1
+    7400008: v_mp5.qc_skeleton|shoot2
+    7400010: v_mp5.qc_skeleton|shoot3
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: f_mp5_template
+    13700002: lhand
+    13700004: rhand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
