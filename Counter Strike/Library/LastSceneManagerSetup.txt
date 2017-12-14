@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Tester.unity
+- path: Assets/Scenes/IceWorld.unity
   isLoaded: 1
   isActive: 1

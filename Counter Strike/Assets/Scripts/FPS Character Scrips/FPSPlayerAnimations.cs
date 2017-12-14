@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
 
-public class FPSPlayerAnimations : MonoBehaviour {
+public class FPSPlayerAnimations : NetworkBehaviour {
     private Animator anim;
 
     private string MOVE = "Move";
@@ -16,9 +17,12 @@ public class FPSPlayerAnimations : MonoBehaviour {
 
     public RuntimeAnimatorController animController_Pistol, animController_MachineGun;
 
+    private NetworkAnimator networkAnim;
+
     void Awake()
     {
         anim = GetComponent<Animator>();
+        networkAnim = GetComponent<NetworkAnimator>();
     }
 
     public void Movement(float magnitude)
@@ -46,15 +50,18 @@ public class FPSPlayerAnimations : MonoBehaviour {
         if(isStanding)
         {
             anim.SetTrigger(STAND_SHOOT);
+            networkAnim.SetTrigger(STAND_SHOOT);
         } else
         {
             anim.SetTrigger(CROUCH_SHOOT);
+            networkAnim.SetTrigger(CROUCH_SHOOT);
         }
     }
 
     public void Reload()
     {
         anim.SetTrigger(RELOAD);
+        networkAnim.SetTrigger(RELOAD);
     }
 	// Use this for initialization
 	void Start () {
